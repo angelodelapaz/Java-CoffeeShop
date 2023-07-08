@@ -1,6 +1,7 @@
 # Java-CoffeeShop
 
 This is another project for our Web Development (Front-end) course in our 2nd year.
+
 Made with HTML, CSS, JS, Java
 
 Screenshots:
